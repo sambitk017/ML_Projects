@@ -1,0 +1,27 @@
+Inititalize a env 
+python -m venv myenv
+
+Activate the env 
+myenv\scripts\Activate
+
+Inititalize a git repo
+git Init
+
+for the first time we have to set it to global
+git config --global user.name "Sambit"
+git config --global user.email sambitk017@gmail.com
+
+add the readme file 
+git add read me file 
+
+commit the file changes
+git commit -m "the message"
+
+go to the master branch 
+git branch -M main
+
+checkout to the repo 
+git remote add origin {link}
+
+push the changes 
+git push -u origin main
