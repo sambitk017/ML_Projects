@@ -25,3 +25,6 @@ git remote add origin {link}
 
 push the changes 
 git push -u origin main
+
+Create a git ignore file for the specific language
+for checking and ignore some specific items or packages while the build 
