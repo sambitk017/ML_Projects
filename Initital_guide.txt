@@ -28,3 +28,14 @@ git push -u origin main
 
 Create a git ignore file for the specific language
 for checking and ignore some specific items or packages while the build 
+
+Create a setup.py and a requirements.txt
+In setup.py add the details 
+
+in requirements.txt add all the packages you want to install
+
+then create a src file where you create a init folder 
+to demonstrate it as a package, when the find packages() runs in setup.py
+
+
+
