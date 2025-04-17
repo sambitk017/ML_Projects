@@ -1,3 +1,31 @@
+Agenda
+1- Setup the github(repo)
+    (a)New environment
+    (b)setup.py
+    (c)requirements.txt
+
+2- Src folder and build the package
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Inititalize a env 
 python -m venv myenv
 
@@ -36,6 +64,9 @@ in requirements.txt add all the packages you want to install
 
 then create a src file where you create a init folder 
 to demonstrate it as a package, when the find packages() runs in setup.py
+
+
+make sure to add '-e .' at the end of the requiremtns.txt file to run the setup.py file 
 
 
 
